@@ -1,0 +1,17 @@
+
+
+.plus{
+display:block;
+float:right;
+margin-right: 30px;
+color: orangered;
+}
+.container{
+    flex-direction: column;
+    align-items: center;
+}
+.col-md-2{
+    margin: 20px 20px;
+    height: 150px;
+    width: 150px;
+}
